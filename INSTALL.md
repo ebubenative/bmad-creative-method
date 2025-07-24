@@ -7,7 +7,10 @@ Welcome to the BMAD Creative Method! This guide will walk you through the simple
 For the best experience, we recommend using the interactive installer. Open your terminal at the root of your project folder and run the following command:
 
 ```bash
-npx bmad-creative-method install
+git clone https://github.com/ebubenative/bmad-creative-method.git
+cd bmad-creative-method
+npm install
+npm run install:bmad
 ```
 
 This will launch an interactive setup process that will guide you through configuring the BMAD Creative Method for your specific project needs.

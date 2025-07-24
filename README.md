@@ -1,13 +1,13 @@
 # BMAD Creative Method: Universal AI Agent Framework for Creatives
 
-[![Version](https://img.shields.io/npm/v/bmad-creative-method?color=blue&label=version)](https://www.npmjs.com/package/bmad-creative-method)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)](https://nodejs.org)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?logo=discord&logoColor=white)](https://discord.gg/gk8jAdXWmj)
 
 A revolutionary framework for Agentic Creative Development. The BMAD Creative Method transforms any creative domain—from branding and advertising to digital product design and content creation—with specialized AI expertise.
 
-**[Subscribe to BMadCode on YouTube](https://www.youtube.com/@BMadCode?sub_confirmation=1)**
+**[Follow Ebube Onyema on GitHub](https://github.com/ebubenative)**
 
 **[Join our Discord Community](https://discord.gg/gk8jAdXWmj)** - A growing community for AI enthusiasts and creative professionals! Get help, share ideas, explore AI agents & frameworks, collaborate on creative projects, and help each other succeed.
 
@@ -51,7 +51,10 @@ This two-phase approach eliminates both **strategic misalignment** and **context
 **Stay up-to-date effortlessly!** If you already have the BMAD Creative Method installed in your project, simply run:
 
 ```bash
-npx bmad-creative-method install
+git clone https://github.com/ebubenative/bmad-creative-method.git
+cd bmad-creative-method
+npm install
+npm run install:bmad
 ```
 
 This will:
@@ -95,7 +98,7 @@ The Maestro will ask you a few simple questions to get your project set up with 
 ### Alternative: Clone and Build
 
 ```bash
-git clone https://github.com/bmadcode/bmad-creative-method.git
+git clone https://github.com/ebubenative/bmad-creative-method.git
 cd bmad-creative-method
 npm install
 npm run install:bmad # build and install all to a destination folder
@@ -128,7 +131,5 @@ The BMAD Creative Method's natural language framework works in ANY creative doma
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
-
-[![Contributors](https://contrib.rocks/image?repo=bmadcode/bmad-creative-method)](https://github.com/bmadcode/bmad-creative-method/graphs/contributors)
 
 <sub>Built with ❤️ for the creative community</sub>
