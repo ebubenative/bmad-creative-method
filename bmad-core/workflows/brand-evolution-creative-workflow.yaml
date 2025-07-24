@@ -1,0 +1,81 @@
+# BMAD Brand Evolution Creative Workflow
+# Version: 1.0
+# Description: A workflow for evolving and modernizing existing brands.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  workflow_id: "bmad-brand-evolution-creative-v1"
+  workflow_name: "Brand Evolution Creative Workflow"
+  description: "A comprehensive workflow for refreshing, rebranding, or extending existing brands."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# WORKFLOW STAGES
+# ==============================================================================
+stages:
+  - stage_name: "1. Brand Immersion & Audit"
+    tasks:
+      - task: "project-kickoff"
+        description: "Guided project setup with the Maestro agent."
+        agent: "maestro"
+      - task: "brand-audit"
+        description: "Conduct a comprehensive audit of the existing brand."
+        agent: "maya" # Creative Strategist
+      - task: "market-creative-analysis"
+        description: "Analyze the current market and competitive landscape."
+        agent: "isaac" # Creative Researcher
+
+  - stage_name: "2. Strategic Repositioning"
+    tasks:
+      - task: "create-creative-story"
+        description: "Develop the creative story and brief for the brand evolution."
+        agent: "maya" # Creative Strategist
+      - task: "repositioning-workshop"
+        description: "Facilitate a workshop to define the new strategic position."
+        agent: "maya" # Creative Strategist
+
+  - stage_name: "3. Evolutionary Creative Exploration"
+    tasks:
+      - task: "creative-brainstorming-session"
+        description: "Brainstorm creative territories for the brand's evolution."
+        team: "studio-collaborative-team"
+      - task: "mood-board-creation"
+        description: "Develop mood boards that capture the evolved visual direction."
+        agent: "leo" # Art Director
+      - task: "concept-development"
+        description: "Develop the core creative concepts for the evolved brand."
+        agent: "adrian" # Creative Director
+
+  - stage_name: "4. Identity Refinement & Systematization"
+    tasks:
+      - task: "identity-refinement"
+        description: "Refine the logo, color palette, and typography."
+        agent: "sophia" # Brand Identity Designer
+      - task: "style-guide-update"
+        description: "Update the brand style guide to reflect the changes."
+        agent: "leo" # Art Director
+
+  - stage_name: "5. Execution & Rollout"
+    tasks:
+      - task: "asset-production"
+        description: "Create a new suite of brand assets."
+        team: "studio-collaborative-team"
+      - task: "rollout-planning"
+        description: "Develop a plan for rolling out the new brand identity."
+        agent: "jordan" # Production Manager
+
+  - stage_name: "6. Review & Finalization"
+    tasks:
+      - task: "creative-quality-review"
+        description: "Review all new assets against the Q-Score rubric."
+        agent: "q-reviewer" # Creative Reviewer
+      - task: "final-creative-approval"
+        description: "Get final sign-off from the Creative Director."
+        agent: "adrian" # Creative Director
+      - task: "post-mortem"
+        description: "Run the post-mortem workflow to capture learnings."
+        agent: "bmad-orchestrator"

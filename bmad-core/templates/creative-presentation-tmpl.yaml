@@ -1,0 +1,66 @@
+# BMAD Creative Presentation Template
+# Version: 1.0
+# Description: A template for building a compelling creative presentation.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  template_id: "bmad-creative-presentation-v1"
+  template_name: "Creative Presentation"
+  description: "A template for structuring a presentation to showcase creative work."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# PRESENTATION SECTIONS
+# ==============================================================================
+sections:
+  - section_name: "Introduction"
+    fields:
+      - field_name: "Project Title"
+        type: "text"
+        description: "The title of the project."
+      - field_name: "Agenda"
+        type: "list"
+        description: "An outline of the presentation."
+      - field_name: "Team Introduction"
+        type: "text"
+        description: "Names and roles of the presenting team."
+
+  - section_name: "The Challenge"
+    fields:
+      - field_name: "Background"
+        type: "textarea"
+        description: "A recap of the project background and business objectives."
+      - field_name: "The Ask"
+        type: "textarea"
+        description: "A clear statement of the creative challenge."
+
+  - section_name: "Our Approach"
+    fields:
+      - field_name: "Strategic Insight"
+        type: "textarea"
+        description: "The key insight that informed the creative direction."
+      - field_name: "Creative Concept"
+        type: "textarea"
+        description: "The big idea behind the creative work."
+
+  - section_name: "The Creative"
+    fields:
+      - field_name: "Creative Showcase"
+        type: "image_list"
+        description: "The creative work being presented."
+      - field_name: "Rationale"
+        type: "textarea"
+        description: "An explanation of how the creative solves the challenge and meets the objectives."
+
+  - section_name: "Next Steps"
+    fields:
+      - field_name: "Feedback"
+        type: "textarea"
+        description: "Specific questions for the client to guide feedback."
+      - field_name: "Timeline"
+        type: "text"
+        description: "An overview of the next steps and timeline."

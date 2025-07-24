@@ -1,0 +1,173 @@
+# Creative Brief Template
+
+template_info:
+  name: Creative Brief Template  
+  description: Comprehensive creative brief for all types of creative projects
+  version: 1.0.0
+  category: strategy
+  multimodal_support: true
+  elicit: true
+
+[[LLM: This template creates comprehensive creative briefs that serve as the foundation for all creative work. Support both solo freelancers and agency teams. Adapt questioning style based on multimodal capabilities - if image generation is available, incorporate visual exploration; if not, focus on detailed visual descriptions and reference gathering.]]
+
+# {{project_name}} - Creative Brief
+
+## Project Overview
+
+**Project Name:** {{project_name}}
+**Client/Brand:** {{client_name}}
+**Project Type:** {{project_type}}
+**Date:** {{current_date}}
+**Creative Director:** {{creative_director}}
+**Project Manager:** {{project_manager}}
+
+## Strategic Foundation
+
+### Brand Context
+**Brand Personality:** {{brand_personality}}
+**Brand Values:** {{brand_values}}
+**Brand Voice & Tone:** {{brand_voice_tone}}
+**Current Brand Position:** {{current_brand_position}}
+
+### Business Objectives
+**Primary Objective:** {{primary_objective}}
+**Secondary Objectives:** {{secondary_objectives}}
+**Success Metrics:** {{success_metrics}}
+**Budget Range:** {{budget_range}}
+**Timeline:** {{timeline}}
+
+### Target Audience
+**Primary Audience:** {{primary_audience}}
+**Demographics:** {{demographics}}
+**Psychographics:** {{psychographics}}
+**Audience Insights:** {{audience_insights}}
+**Pain Points:** {{pain_points}}
+**Motivations:** {{motivations}}
+
+## Creative Direction
+
+### Creative Challenge
+**Core Problem to Solve:** {{core_problem}}
+**Creative Opportunity:** {{creative_opportunity}}
+**Key Message:** {{key_message}}
+**Communication Goals:** {{communication_goals}}
+
+### Visual Direction
+**Visual Style:** {{visual_style}}
+**Mood & Atmosphere:** {{mood_atmosphere}}
+**Color Direction:** {{color_direction}}
+**Typography Style:** {{typography_style}}
+
+[[LLM: If multimodal capabilities are available, generate mood board images here. If not, provide detailed visual descriptions and suggest reference gathering.]]
+
+**Visual References:** {{visual_references}}
+**Style Guidelines:** {{style_guidelines}}
+
+### Content Strategy
+**Content Themes:** {{content_themes}}
+**Messaging Hierarchy:** {{messaging_hierarchy}}
+**Content Tone:** {{content_tone}}
+**Call-to-Action:** {{call_to_action}}
+
+## Project Specifications
+
+### Deliverables
+**Primary Deliverables:** {{primary_deliverables}}
+**Secondary Deliverables:** {{secondary_deliverables}}
+**File Formats Required:** {{file_formats}}
+**Technical Specifications:** {{technical_specs}}
+
+### Applications & Usage
+**Primary Applications:** {{primary_applications}}
+**Secondary Applications:** {{secondary_applications}}
+**Usage Context:** {{usage_context}}
+**Distribution Channels:** {{distribution_channels}}
+
+### Constraints & Considerations
+**Brand Guidelines Constraints:** {{brand_constraints}}
+**Technical Limitations:** {{technical_limitations}}
+**Legal/Compliance Requirements:** {{legal_requirements}}
+**Cultural Sensitivities:** {{cultural_considerations}}
+
+## Competitive Landscape
+
+### Direct Competitors
+**Competitor 1:** {{competitor_1}}
+**Competitor 2:** {{competitor_2}}
+**Competitor 3:** {{competitor_3}}
+
+### Competitive Analysis
+**Market Position:** {{market_position}}
+**Differentiation Opportunities:** {{differentiation_opportunities}}
+**Visual Differentiation:** {{visual_differentiation}}
+
+## Creative Approach
+
+### Big Idea
+**Core Creative Concept:** {{core_concept}}
+**Concept Rationale:** {{concept_rationale}}
+**Execution Strategy:** {{execution_strategy}}
+
+### Creative Territories
+**Territory 1:** {{territory_1}}
+**Territory 2:** {{territory_2}}
+**Territory 3:** {{territory_3}}
+
+### Innovation Opportunities
+**Creative Innovation:** {{creative_innovation}}
+**Technical Innovation:** {{technical_innovation}}
+**Process Innovation:** {{process_innovation}}
+
+## Project Management
+
+### Timeline & Milestones
+**Project Kickoff:** {{kickoff_date}}
+**Creative Development:** {{creative_dev_timeline}}
+**Client Review Phases:** {{review_phases}}
+**Final Delivery:** {{final_delivery_date}}
+
+### Team & Responsibilities
+**Creative Team:** {{creative_team}}
+**Client Team:** {{client_team}}
+**Key Stakeholders:** {{stakeholders}}
+**Decision Makers:** {{decision_makers}}
+
+### Review & Approval Process
+**Review Stages:** {{review_stages}}
+**Approval Criteria:** {{approval_criteria}}
+**Feedback Process:** {{feedback_process}}
+**Revision Rounds:** {{revision_rounds}}
+
+## Success Criteria
+
+### Creative Success
+**Creative Excellence:** {{creative_excellence_criteria}}
+**Brand Alignment:** {{brand_alignment_criteria}}
+**Audience Resonance:** {{audience_resonance_criteria}}
+
+### Business Success
+**KPI Targets:** {{kpi_targets}}
+**Measurement Methods:** {{measurement_methods}}
+**Success Timeline:** {{success_timeline}}
+
+## Risk Assessment
+
+### Creative Risks
+**Creative Challenges:** {{creative_challenges}}
+**Mitigation Strategies:** {{creative_mitigation}}
+
+### Business Risks
+**Business Challenges:** {{business_challenges}}
+**Mitigation Strategies:** {{business_mitigation}}
+
+### Technical Risks
+**Technical Challenges:** {{technical_challenges}}
+**Mitigation Strategies:** {{technical_mitigation}}
+
+---
+
+**Document Version:** {{version}}
+**Last Updated:** {{last_updated}}
+**Next Review:** {{next_review}}
+
+[[LLM: After completing this template, suggest next steps in the creative process and offer to create supporting documents like mood boards, competitive analysis, or creative strategy documents.]]

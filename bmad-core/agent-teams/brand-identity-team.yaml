@@ -1,0 +1,43 @@
+# BMAD Brand Identity Team
+# Version: 1.0
+# Description: A specialized team for brand identity projects.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  team_id: "bmad-brand-identity-team-v1"
+  team_name: "Brand Identity Team"
+  description: "A focused team of specialists for designing and developing brand identities."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# TEAM MEMBERS
+# ==============================================================================
+members:
+  - agent: "maya"
+    role: "Creative Strategist"
+    responsibilities:
+      - "Brand strategy and positioning"
+  - agent: "adrian"
+    role: "Creative Director"
+    responsibilities:
+      - "Overall creative vision for the brand identity"
+  - agent: "sophia"
+    role: "Brand Identity Designer"
+    responsibilities:
+      - "Lead designer for the logo and visual system"
+  - agent: "gabriel"
+    role: "Graphic Designer"
+    responsibilities:
+      - "Design of supporting brand collateral"
+  - agent: "alex"
+    role: "Copywriter"
+    responsibilities:
+      - "Developing the brand voice and messaging"
+  - agent: "leo"
+    role: "Creative Reviewer/QA"
+    responsibilities:
+      - "Ensuring consistency and quality across all brand assets"

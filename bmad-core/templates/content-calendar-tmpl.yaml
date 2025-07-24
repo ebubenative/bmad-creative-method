@@ -1,0 +1,267 @@
+# Content Calendar Template
+
+template_info:
+  name: Content Calendar Template  
+  description: Comprehensive content calendar for multi-platform content planning and scheduling
+  version: 1.0.0
+  category: planning
+  multimodal_support: true
+  elicit: true
+
+[[LLM: This template creates detailed content calendars that coordinate content across multiple platforms and formats. Support both individual creators and agency teams. Adapt based on platform mix and posting frequency requirements. Include performance tracking and optimization elements.]]
+
+# {{project_name}} - Content Calendar
+
+## Calendar Overview
+
+**Project Name:** {{project_name}}
+**Brand/Client:** {{brand_name}}
+**Calendar Period:** {{calendar_period}}
+**Date Created:** {{current_date}}
+**Content Strategist:** {{content_strategist}}
+**Social Media Manager:** {{social_manager}}
+
+## Strategic Foundation
+
+### Content Objectives
+**Primary Goal:** {{primary_goal}}
+**Secondary Goals:** {{secondary_goals}}
+**Target KPIs:** {{target_kpis}}
+**Success Metrics:** {{success_metrics}}
+
+### Target Audience
+**Primary Audience:** {{primary_audience}}
+**Content Preferences:** {{content_preferences}}
+**Peak Engagement Times:** {{engagement_times}}
+**Platform Behavior:** {{platform_behavior}}
+
+### Brand Voice & Messaging
+**Brand Voice:** {{brand_voice}}
+**Key Messages:** {{key_messages}}
+**Content Pillars:** {{content_pillars}}
+**Hashtag Strategy:** {{hashtag_strategy}}
+
+## Platform Strategy
+
+### Platform Mix
+**Primary Platforms:** {{primary_platforms}}
+**Secondary Platforms:** {{secondary_platforms}}
+**Platform Priorities:** {{platform_priorities}}
+
+### Platform-Specific Strategies
+**Instagram Strategy:** {{instagram_strategy}}
+**TikTok Strategy:** {{tiktok_strategy}}
+**YouTube Strategy:** {{youtube_strategy}}
+**LinkedIn Strategy:** {{linkedin_strategy}}
+**Twitter Strategy:** {{twitter_strategy}}
+**Facebook Strategy:** {{facebook_strategy}}
+**Other Platforms:** {{other_platforms}}
+
+## Content Types & Formats
+
+### Content Categories
+**Educational Content:** {{educational_content_percentage}}%
+**Entertainment Content:** {{entertainment_content_percentage}}%
+**Promotional Content:** {{promotional_content_percentage}}%
+**User-Generated Content:** {{ugc_content_percentage}}%
+**Behind-the-Scenes:** {{bts_content_percentage}}%
+
+### Content Formats
+**Video Content:** {{video_content_types}}
+**Image Content:** {{image_content_types}}
+**Text Content:** {{text_content_types}}
+**Interactive Content:** {{interactive_content_types}}
+**Live Content:** {{live_content_types}}
+
+## Monthly Content Calendar
+
+### Week 1 ({{week_1_dates}})
+**Monday:**
+- Platform: {{monday_platform}}
+- Content Type: {{monday_content_type}}
+- Topic: {{monday_topic}}
+- Format: {{monday_format}}
+- Caption: {{monday_caption}}
+- Hashtags: {{monday_hashtags}}
+- Call-to-Action: {{monday_cta}}
+
+**Tuesday:**
+- Platform: {{tuesday_platform}}
+- Content Type: {{tuesday_content_type}}
+- Topic: {{tuesday_topic}}
+- Format: {{tuesday_format}}
+- Caption: {{tuesday_caption}}
+- Hashtags: {{tuesday_hashtags}}
+- Call-to-Action: {{tuesday_cta}}
+
+**Wednesday:**
+- Platform: {{wednesday_platform}}
+- Content Type: {{wednesday_content_type}}
+- Topic: {{wednesday_topic}}
+- Format: {{wednesday_format}}
+- Caption: {{wednesday_caption}}
+- Hashtags: {{wednesday_hashtags}}
+- Call-to-Action: {{wednesday_cta}}
+
+**Thursday:**
+- Platform: {{thursday_platform}}
+- Content Type: {{thursday_content_type}}
+- Topic: {{thursday_topic}}
+- Format: {{thursday_format}}
+- Caption: {{thursday_caption}}
+- Hashtags: {{thursday_hashtags}}
+- Call-to-Action: {{thursday_cta}}
+
+**Friday:**
+- Platform: {{friday_platform}}
+- Content Type: {{friday_content_type}}
+- Topic: {{friday_topic}}
+- Format: {{friday_format}}
+- Caption: {{friday_caption}}
+- Hashtags: {{friday_hashtags}}
+- Call-to-Action: {{friday_cta}}
+
+**Saturday:**
+- Platform: {{saturday_platform}}
+- Content Type: {{saturday_content_type}}
+- Topic: {{saturday_topic}}
+- Format: {{saturday_format}}
+- Caption: {{saturday_caption}}
+- Hashtags: {{saturday_hashtags}}
+- Call-to-Action: {{saturday_cta}}
+
+**Sunday:**
+- Platform: {{sunday_platform}}
+- Content Type: {{sunday_content_type}}
+- Topic: {{sunday_topic}}
+- Format: {{sunday_format}}
+- Caption: {{sunday_caption}}
+- Hashtags: {{sunday_hashtags}}
+- Call-to-Action: {{sunday_cta}}
+
+### Recurring Content Series
+**Series 1:** {{series_1_name}}
+- Frequency: {{series_1_frequency}}
+- Platform: {{series_1_platform}}
+- Format: {{series_1_format}}
+- Description: {{series_1_description}}
+
+**Series 2:** {{series_2_name}}
+- Frequency: {{series_2_frequency}}
+- Platform: {{series_2_platform}}
+- Format: {{series_2_format}}
+- Description: {{series_2_description}}
+
+**Series 3:** {{series_3_name}}
+- Frequency: {{series_3_frequency}}
+- Platform: {{series_3_platform}}
+- Format: {{series_3_format}}
+- Description: {{series_3_description}}
+
+## Campaign Integration
+
+### Current Campaigns
+**Campaign 1:** {{campaign_1_name}}
+- Duration: {{campaign_1_duration}}
+- Content Integration: {{campaign_1_integration}}
+- Platform Focus: {{campaign_1_platforms}}
+
+**Campaign 2:** {{campaign_2_name}}
+- Duration: {{campaign_2_duration}}
+- Content Integration: {{campaign_2_integration}}
+- Platform Focus: {{campaign_2_platforms}}
+
+### Seasonal Content
+**Holidays/Events:** {{seasonal_events}}
+**Seasonal Themes:** {{seasonal_themes}}
+**Special Promotions:** {{special_promotions}}
+
+## Content Production
+
+### Production Schedule
+**Content Creation Days:** {{creation_days}}
+**Batch Production:** {{batch_production_schedule}}
+**Review & Approval:** {{review_schedule}}
+**Publishing Schedule:** {{publishing_schedule}}
+
+### Asset Requirements
+**Photography Needs:** {{photography_needs}}
+**Video Production:** {{video_production_needs}}
+**Graphic Design:** {{graphic_design_needs}}
+**Copywriting:** {{copywriting_needs}}
+
+### Team Responsibilities
+**Content Creator:** {{content_creator_responsibilities}}
+**Designer:** {{designer_responsibilities}}
+**Copywriter:** {{copywriter_responsibilities}}
+**Social Media Manager:** {{social_manager_responsibilities}}
+
+## Engagement Strategy
+
+### Community Management
+**Response Time Goal:** {{response_time}}
+**Engagement Tactics:** {{engagement_tactics}}
+**Community Guidelines:** {{community_guidelines}}
+**Crisis Management:** {{crisis_management_plan}}
+
+### User-Generated Content
+**UGC Campaigns:** {{ugc_campaigns}}
+**Hashtag Campaigns:** {{hashtag_campaigns}}
+**Contest Strategy:** {{contest_strategy}}
+**Influencer Collaborations:** {{influencer_collaborations}}
+
+## Performance Tracking
+
+### Key Metrics
+**Reach Metrics:** {{reach_metrics}}
+**Engagement Metrics:** {{engagement_metrics}}
+**Conversion Metrics:** {{conversion_metrics}}
+**Growth Metrics:** {{growth_metrics}}
+
+### Reporting Schedule
+**Daily Monitoring:** {{daily_monitoring}}
+**Weekly Reports:** {{weekly_reporting}}
+**Monthly Analysis:** {{monthly_analysis}}
+**Quarterly Reviews:** {{quarterly_reviews}}
+
+### Optimization Strategy
+**A/B Testing:** {{ab_testing_plan}}
+**Content Optimization:** {{optimization_strategy}}
+**Platform Algorithm Updates:** {{algorithm_monitoring}}
+**Trend Integration:** {{trend_integration}}
+
+## Budget & Resources
+
+### Content Budget
+**Total Monthly Budget:** {{monthly_budget}}
+**Production Costs:** {{production_costs}}
+**Advertising Spend:** {{advertising_budget}}
+**Tool Subscriptions:** {{tool_costs}}
+
+### Resource Allocation
+**Time Investment:** {{time_allocation}}
+**Team Resources:** {{team_resources}}
+**External Vendors:** {{external_vendors}}
+**Equipment Needs:** {{equipment_needs}}
+
+## Risk Management
+
+### Content Risks
+**Brand Safety:** {{brand_safety_measures}}
+**Copyright Issues:** {{copyright_considerations}}
+**Platform Policy Changes:** {{platform_policy_monitoring}}
+**Crisis Scenarios:** {{crisis_scenarios}}
+
+### Contingency Plans
+**Content Backup Plans:** {{backup_content}}
+**Emergency Response:** {{emergency_response}}
+**Platform Outages:** {{platform_outage_plan}}
+**Team Availability:** {{team_backup_plan}}
+
+---
+
+**Document Version:** {{version}}
+**Last Updated:** {{last_updated}}
+**Next Review:** {{next_review}}
+
+[[LLM: After completing this template, suggest content creation priorities, recommend production workflows, and offer to create supporting documents like platform-specific guides, content templates, or engagement strategies.]]

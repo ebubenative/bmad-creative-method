@@ -1,0 +1,75 @@
+# BMAD Studio Collaborative Team
+# Version: 1.0
+# Description: A team configuration for a full-service creative studio.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  team_id: "bmad-studio-collaborative-team-v1"
+  team_name: "Studio Collaborative Team"
+  description: "A comprehensive team for large-scale creative projects."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# TEAM MEMBERS
+# ==============================================================================
+members:
+  - agent: "jordan"
+    role: "Production Manager"
+    responsibilities:
+      - "Overall project coordination and workflow management"
+  - agent: "chloe"
+    role: "Client Liaison"
+    responsibilities:
+      - "All client communication, feedback, and relationship management"
+  - agent: "maya"
+    role: "Creative Strategist"
+    responsibilities:
+      - "Leading creative strategy and market research"
+  - agent: "adrian"
+    role: "Creative Director"
+    responsibilities:
+      - "Setting the creative vision and leading the creative team"
+  - agent: "isaac"
+    role: "Creative Researcher"
+    responsibilities:
+      - "Conducting trend analysis and gathering inspiration"
+  - agent: "sophia"
+    role: "Brand Identity Designer"
+    responsibilities:
+      - "Logo design and brand identity systems"
+  - agent: "riley"
+    role: "UX Designer"
+    responsibilities:
+      - "User experience and interaction design"
+  - agent: "gabriel"
+    role: "Graphic Designer"
+    responsibilities:
+      - "General graphic design and asset creation"
+  - agent: "alex"
+    role: "Copywriter"
+    responsibilities:
+      - "All copywriting and brand messaging"
+  - agent: "marcus"
+    role: "Motion Designer"
+    responsibilities:
+      - "Animation and motion graphics"
+  - agent: "olivia"
+    role: "Packaging Designer"
+    responsibilities:
+      - "Packaging design and mockups"
+  - agent: "eva"
+    role: "Environmental Designer"
+    responsibilities:
+      - "Experiential and spatial design"
+  - agent: "leo"
+    role: "Art Director"
+    responsibilities:
+      - "Leading visual execution and art direction"
+  - agent: "q-reviewer"
+    role: "Creative Reviewer/QA"
+    responsibilities:
+      - "Ensuring the quality and consistency of all creative output"

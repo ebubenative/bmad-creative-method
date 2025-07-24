@@ -1,0 +1,76 @@
+# BMAD Project Memory Template
+# Version: 1.0
+# Description: A template for logging and learning from creative projects.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  template_id: "bmad-creative-project-memory-v1"
+  template_name: "Project Memory"
+  description: "A template for capturing key decisions, outcomes, and learnings from a creative project."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# MEMORY SECTIONS
+# ==============================================================================
+sections:
+  - section_name: "Project Summary"
+    fields:
+      - field_name: "Project Name"
+        type: "text"
+        description: "The name of the project."
+      - field_name: "Project Dates"
+        type: "date_range"
+        description: "The start and end dates of the project."
+      - field_name: "Final Outcome"
+        type: "textarea"
+        description: "A summary of the final project outcome."
+
+  - section_name: "Creative Decisions"
+    fields:
+      - field_name: "Key Creative Decisions"
+        type: "log"
+        description: "A log of the key creative decisions made during the project."
+        log_fields:
+          - name: "decision"
+            type: "text"
+          - name: "rationale"
+            type: "textarea"
+          - name: "outcome"
+            type: "text"
+
+  - section_name: "Performance"
+    fields:
+      - field_name: "Performance Metrics"
+        type: "key_value_list"
+        description: "The final performance metrics against the project's KPIs."
+        placeholder: "e.g., Engagement Rate: 5.2%, Conversions: 500"
+      - field_name: "Performance Analysis"
+        type: "textarea"
+        description: "An analysis of the project's performance."
+
+  - section_name: "Learnings"
+    fields:
+      - field_name: "What Went Well"
+        type: "list"
+        description: "A list of things that were successful."
+      - field_name: "What Could Be Improved"
+        type: "list"
+        description: "A list of things that could be improved in future projects."
+      - field_name: "Key Takeaways"
+        type: "textarea"
+        description: "The most important learnings from the project."
+
+  - section_name: "Team Feedback"
+    fields:
+      - field_name: "Team Member Feedback"
+        type: "log"
+        description: "Feedback from team members on the project."
+        log_fields:
+          - name: "team_member"
+            type: "text"
+          - name: "feedback"
+            type: "textarea"

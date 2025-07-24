@@ -1,0 +1,49 @@
+# BMAD Mood Board Template
+# Version: 1.0
+# Description: A template for creating a visual mood board.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  template_id: "bmad-creative-mood-board-v1"
+  template_name: "Mood Board"
+  description: "A template for visually exploring the look and feel of a creative project."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# MOOD BOARD SECTIONS
+# ==============================================================================
+sections:
+  - section_name: "Core Concept"
+    fields:
+      - field_name: "Concept Title"
+        type: "text"
+        description: "A short, descriptive title for the mood board."
+      - field_name: "Concept Description"
+        type: "textarea"
+        description: "A brief description of the creative direction being explored."
+
+  - section_name: "Visual Elements"
+    fields:
+      - field_name: "Key Images"
+        type: "image_list"
+        description: "A collection of images that capture the desired aesthetic."
+      - field_name: "Color Palette"
+        type: "color_list"
+        description: "A preliminary color palette inspired by the key images."
+      - field_name: "Typography Samples"
+        type: "image_list"
+        description: "Examples of typography that fit the desired mood."
+      - field_name: "Texture & Pattern"
+        type: "image_list"
+        description: "Images that showcase relevant textures and patterns."
+
+  - section_name: "Keywords"
+    fields:
+      - field_name: "Descriptive Words"
+        type: "list"
+        description: "A list of words that describe the mood and feeling."
+        placeholder: "e.g., Energetic, Bold, Optimistic"

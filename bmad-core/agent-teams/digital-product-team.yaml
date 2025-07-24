@@ -1,0 +1,47 @@
+# BMAD Digital Product Team
+# Version: 1.0
+# Description: A team for designing and developing digital products.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  team_id: "bmad-digital-product-team-v1"
+  team_name: "Digital Product Team"
+  description: "A specialized team for user-centered digital product design."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# TEAM MEMBERS
+# ==============================================================================
+members:
+  - agent: "maya"
+    role: "Creative Strategist"
+    responsibilities:
+      - "Product strategy and user research"
+  - agent: "riley"
+    role: "UX Designer"
+    responsibilities:
+      - "User experience design and prototyping"
+  - agent: "gabriel"
+    role: "Graphic Designer"
+    responsibilities:
+      - "UI design and visual assets"
+  - agent: "sophia"
+    role: "Brand Identity Designer"
+    responsibilities:
+      - "Visual identity and branding for the product"
+  - agent: "alex"
+    role: "Copywriter"
+    responsibilities:
+      - "UX copy and microcopy"
+  - agent: "leo"
+    role: "Creative Reviewer/QA"
+    responsibilities:
+      - "Design review and usability testing"
+  - agent: "jordan"
+    role: "Production Manager"
+    responsibilities:
+      - "Project coordination and handoff to development"

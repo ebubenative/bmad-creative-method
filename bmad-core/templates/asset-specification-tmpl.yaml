@@ -1,0 +1,63 @@
+# BMAD Asset Specification Template
+# Version: 1.0
+# Description: A template for defining the technical specifications for a creative asset.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  template_id: "bmad-creative-asset-spec-v1"
+  template_name: "Asset Specification"
+  description: "A template for providing detailed technical requirements for a creative asset."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# SPECIFICATION SECTIONS
+# ==============================================================================
+sections:
+  - section_name: "Asset Overview"
+    fields:
+      - field_name: "Asset Name"
+        type: "text"
+        description: "A unique name for the asset."
+      - field_name: "Asset Type"
+        type: "text"
+        description: "The type of asset (e.g., Logo, Illustration, Banner Ad)."
+      - field_name: "Project"
+        type: "text"
+        description: "The project this asset belongs to."
+
+  - section_name: "Technical Specifications"
+    fields:
+      - field_name: "Dimensions"
+        type: "text"
+        description: "The required dimensions (e.g., 1920x1080px)."
+      - field_name: "File Format"
+        type: "text"
+        description: "The required file format (e.g., PNG, JPG, SVG)."
+      - field_name: "Resolution"
+        type: "text"
+        description: "The required resolution (e.g., 72 DPI, 300 DPI)."
+      - field_name: "Color Profile"
+        type: "text"
+        description: "The required color profile (e.g., sRGB, CMYK)."
+      - field_name: "File Size Limit"
+        type: "text"
+        description: "The maximum allowed file size (e.g., 5MB)."
+
+  - section_name: "Content Requirements"
+    fields:
+      - field_name: "Required Copy"
+        type: "textarea"
+        description: "Any text that must be included in the asset."
+      - field_name: "Required Visuals"
+        type: "textarea"
+        description: "Any logos, images, or other visual elements that must be included."
+
+  - section_name: "Additional Notes"
+    fields:
+      - field_name: "Notes"
+        type: "textarea"
+        description: "Any other important information or constraints."

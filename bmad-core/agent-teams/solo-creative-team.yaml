@@ -1,0 +1,49 @@
+# BMAD Solo Creative Team
+# Version: 1.0
+# Description: A team configuration for a solo creative professional.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  team_id: "bmad-solo-creative-team-v1"
+  team_name: "Solo Creative Team"
+  description: "A virtual team designed to support a solo creative professional."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# TEAM MEMBERS
+# ==============================================================================
+members:
+  - agent: "maya"
+    role: "Creative Strategist"
+    responsibilities:
+      - "Project planning and strategy"
+      - "Market research and analysis"
+  - agent: "adrian"
+    role: "Creative Director"
+    responsibilities:
+      - "Creative vision and direction"
+      - "Concept development"
+  - agent: "gabriel"
+    role: "Graphic Designer"
+    responsibilities:
+      - "Visual design and execution"
+  - agent: "alex"
+    role: "Copywriter"
+    responsibilities:
+      - "Copywriting and editing"
+  - agent: "leo"
+    role: "Creative Reviewer/QA"
+    responsibilities:
+      - "Quality assurance and proofreading"
+  - agent: "chloe"
+    role: "Client Liaison"
+    responsibilities:
+      - "Client communication and feedback management"
+  - agent: "jordan"
+    role: "Production Manager"
+    responsibilities:
+      - "Project management and coordination"

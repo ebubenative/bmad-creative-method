@@ -1,0 +1,100 @@
+# BMAD Creative Strategy Template
+# Version: 1.0
+# Description: A template for developing a comprehensive creative strategy.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  template_id: "bmad-creative-strategy-v1"
+  template_name: "Creative Strategy"
+  description: "A template for outlining the strategic approach for a creative project or campaign."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# STRATEGY SECTIONS
+# ==============================================================================
+sections:
+  - section_name: "Project Overview"
+    fields:
+      - field_name: "Project Name"
+        type: "text"
+        description: "The name of the project or campaign."
+      - field_name: "Background"
+        type: "textarea"
+        description: "The context and reason for the project."
+      - field_name: "Business Objectives"
+        type: "list"
+        description: "The business goals the project aims to achieve."
+        placeholder: "e.g., Increase brand awareness by 20%"
+
+  - section_name: "Target Audience"
+    fields:
+      - field_name: "Primary Audience"
+        type: "textarea"
+        description: "A detailed description of the primary target audience."
+      - field_name: "Secondary Audience"
+        type: "textarea"
+        description: "A description of any secondary audiences."
+      - field_name: "Audience Insights"
+        type: "textarea"
+        description: "Key insights about the audience's needs, motivations, and pain points."
+
+  - section_name: "Competitive Landscape"
+    fields:
+      - field_name: "Key Competitors"
+        type: "list"
+        description: "A list of the main competitors."
+      - field_name: "Competitive Analysis"
+        type: "textarea"
+        description: "An analysis of the competitive landscape, including strengths, weaknesses, and opportunities."
+      - field_name: "Unique Differentiator"
+        type: "textarea"
+        description: "What makes this brand or project unique in the market."
+
+  - section_name: "Core Message"
+    fields:
+      - field_name: "Key Message"
+        type: "textarea"
+        description: "The single most important message to communicate."
+      - field_name: "Supporting Points"
+        type: "list"
+        description: "Key points that support the core message."
+      - field_name: "Call to Action"
+        type: "text"
+        description: "The desired action for the audience to take."
+
+  - section_name: "Creative Approach"
+    fields:
+      - field_name: "Creative Concept"
+        type: "textarea"
+        description: "The overarching creative idea or concept."
+      - field_name: "Tone of Voice"
+        type: "text"
+        description: "The desired tone for all creative executions."
+        placeholder: "e.g., Playful, Authoritative, Empathetic"
+      - field_name: "Visual Direction"
+        type: "textarea"
+        description: "The overall look and feel of the creative."
+
+  - section_name: "Channel Strategy"
+    fields:
+      - field_name: "Primary Channels"
+        type: "list"
+        description: "The main channels for creative execution."
+        placeholder: "e.g., Social Media, Website, Email"
+      - field_name: "Channel-Specific Considerations"
+        type: "textarea"
+        description: "Notes on how the creative will be adapted for each channel."
+
+  - section_name: "Measurement"
+    fields:
+      - field_name: "Key Performance Indicators (KPIs)"
+        type: "list"
+        description: "The metrics that will be used to measure success."
+        placeholder: "e.g., Engagement Rate, Click-Through Rate, Conversions"
+      - field_name: "Measurement Tools"
+        type: "list"
+        description: "The tools that will be used to track KPIs."

@@ -1,0 +1,51 @@
+# BMAD Campaign Development Team
+# Version: 1.0
+# Description: A team for developing and executing marketing campaigns.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  team_id: "bmad-campaign-development-team-v1"
+  team_name: "Campaign Development Team"
+  description: "A multidisciplinary team for creating integrated marketing campaigns."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# TEAM MEMBERS
+# ==============================================================================
+members:
+  - agent: "maya"
+    role: "Creative Strategist"
+    responsibilities:
+      - "Campaign strategy and performance analysis"
+  - agent: "adrian"
+    role: "Creative Director"
+    responsibilities:
+      - "Overall creative vision for the campaign"
+  - agent: "leo"
+    role: "Art Director"
+    responsibilities:
+      - "Leading visual execution for the campaign"
+  - agent: "gabriel"
+    role: "Graphic Designer"
+    responsibilities:
+      - "Design of campaign visuals and ads"
+  - agent: "alex"
+    role: "Copywriter"
+    responsibilities:
+      - "Campaign copywriting and messaging"
+  - agent: "marcus"
+    role: "Motion Designer"
+    responsibilities:
+      - "Creation of video and animated content"
+  - agent: "jordan"
+    role: "Production Manager"
+    responsibilities:
+      - "Campaign coordination and launch management"
+  - agent: "leo"
+    role: "Creative Reviewer/QA"
+    responsibilities:
+      - "Ensuring quality and consistency across all campaign assets"

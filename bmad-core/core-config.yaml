@@ -1,0 +1,254 @@
+name: bmad-creative-core
+version: 5.0.0
+description: "The core framework for the BMAD Creative Method, a comprehensive system for creative project execution."
+category: core
+keywords: [bmad, creative, core, design, agency]
+
+author:
+  name: BMAD Creative Team
+  email: creative@bmadcode.com
+
+compatibility:
+  bmad_version: ">=5.0.0"
+  
+features:
+  - dual_mode_system: "Solo freelancer vs Studio collaborative modes"
+  - multimodal_support: "Adaptive workflows for text-only and image-generation capable models"  
+  - client_integration: "Advanced client feedback and approval workflows"
+  - project_learning: "AI-powered agent memory system for continuous improvement"
+  - industry_specialization: "Deep industry expertise across 12+ creative sectors"
+  - tool_integration: "Native workflows for major creative tool stacks"
+  - creative_analytics: "Performance tracking and creative optimization"
+  - cultural_intelligence: "Global market adaptation and cultural sensitivity"
+  - accessibility_first: "Built-in accessibility and inclusive design workflows"
+  - content_ecosystem: "End-to-end content creation and distribution management"
+
+modes:
+  solo_creative:
+    description: "Streamlined workflow for freelance designers and independent creators"
+    agents: [creative-strategist, creative-director, specialist-designer, production-manager, client-liaison]
+    templates: essential
+    client_integration: simplified
+    analytics: basic
+    
+  studio_collaborative:
+    description: "Full agency workflow with specialized roles and advanced collaboration"
+    agents: all
+    templates: comprehensive
+    client_integration: advanced
+    analytics: enterprise
+    
+  content_creator:
+    description: "Optimized for social media creators, influencers, and content agencies"
+    agents: [content-strategist, creative-director, social-media-specialist, video-producer, copywriter]
+    templates: content_focused
+    client_integration: creator_friendly
+
+  enterprise_creative:
+    description: "Large-scale creative operations for enterprise and corporate teams"
+    agents: all_plus_governance
+    templates: enterprise
+    client_integration: enterprise
+    analytics: advanced
+
+supported_disciplines:
+  # Visual Design
+  - brand_identity_design
+  - graphic_design
+  - illustration_design
+  - typography_design
+  - packaging_design
+  - publication_design
+  - environmental_design
+  - exhibition_design
+  - retail_design
+  - signage_wayfinding
+
+  # Digital & Interactive
+  - ux_ui_design
+  - web_design
+  - mobile_app_design
+  - interactive_design
+  - ar_vr_experience_design
+  - digital_product_design
+  - e_commerce_design
+  - game_ui_design
+
+  # Motion & Video
+  - motion_design
+  - animation_design
+  - video_production
+  - motion_graphics
+  - broadcast_design
+  - social_video_content
+  - explainer_video_design
+
+  # Content & Media
+  - content_creation
+  - social_media_design
+  - photography_art_direction
+  - editorial_design
+  - copywriting_content_strategy
+  - influencer_campaign_design
+  - podcast_visual_identity
+
+  # Specialized
+  - fashion_design
+  - industrial_design
+  - automotive_design
+  - medical_device_design
+  - sustainable_design
+  - cultural_design
+
+industry_specializations:
+  # Technology & Digital
+  - technology_saas
+  - fintech_crypto
+  - gaming_esports
+  - ai_machine_learning
+  - cybersecurity
+
+  # Media & Entertainment  
+  - entertainment_media
+  - music_audio
+  - film_television
+  - publishing_editorial
+  - sports_fitness
+
+  # Consumer & Lifestyle
+  - fashion_luxury
+  - food_beverage
+  - beauty_wellness
+  - travel_hospitality
+  - automotive_mobility
+
+  # Professional Services
+  - real_estate_architecture
+  - healthcare_medical
+  - education_elearning
+  - professional_services
+  - consulting_agencies
+
+  # Impact & Purpose
+  - nonprofit_social_impact
+  - sustainability_environment
+  - government_public_sector
+  - cultural_arts_institutions
+
+  # Emerging Sectors
+  - web3_blockchain
+  - space_aerospace
+  - biotech_lifesciences
+  - renewable_energy
+
+project_types:
+  # Brand & Identity
+  - brand_identity_development
+  - brand_refresh_evolution
+  - sub_brand_creation
+  - brand_extension_projects
+  - corporate_rebrand
+
+  # Marketing & Campaigns
+  - integrated_marketing_campaigns
+  - product_launch_campaigns
+  - seasonal_promotional_campaigns
+  - awareness_campaigns
+  - conversion_campaigns
+  - influencer_collaborations
+
+  # Digital Products
+  - website_development
+  - mobile_app_design
+  - web_application_design
+  - e_commerce_platforms
+  - digital_experience_platforms
+
+  # Content & Media
+  - content_marketing_programs
+  - social_media_content_systems
+  - editorial_design_projects
+  - video_content_series
+  - podcast_brand_systems
+
+  # Events & Experiences
+  - event_design_branding
+  - trade_show_exhibitions
+  - retail_pop_up_experiences
+  - conference_summit_branding
+  - virtual_event_design
+
+  # Specialized Projects
+  - packaging_design_systems
+  - environmental_graphics
+  - annual_report_design
+  - presentation_template_systems
+  - style_guide_development
+
+business_models:
+  - agency_client_work
+  - freelance_projects
+  - in_house_creative_teams
+  - creative_consultancy
+  - design_subscription_services
+  - creative_product_development
+  - licensing_partnerships
+
+creative_methodologies:
+  - design_thinking
+  - lean_startup_methodology
+  - agile_creative_development
+  - human_centered_design
+  - systems_thinking_design
+  - sustainable_design_principles
+  - inclusive_design_practices
+  - cultural_design_research
+
+technology_integrations:
+  design_tools:
+    - adobe_creative_suite
+    - figma_design_systems
+    - sketch_prototyping
+    - canva_templates
+    - procreate_illustration
+    - cinema4d_motion
+    - after_effects_animation
+    - webflow_development
+
+  project_management:
+    - asana_creative_workflows
+    - monday_creative_pipelines
+    - notion_creative_databases
+    - airtable_asset_management
+    - slack_team_communication
+
+  analytics_tools:
+    - google_analytics
+    - social_media_analytics
+    - creative_performance_tracking
+    - brand_awareness_measurement
+    - conversion_rate_optimization
+
+dependencies:
+  common: ">=1.0.0"
+  
+install_options:
+  mode_selection: true
+  industry_specialization: true
+  discipline_focus: true
+  business_model_configuration: true
+  tool_stack_integration: true
+  analytics_setup: true
+  client_portal_configuration: true
+
+advanced_features:
+  ai_creative_assistance: true
+  automated_asset_generation: true
+  brand_consistency_monitoring: true
+  cultural_sensitivity_analysis: true
+  accessibility_compliance_checking: true
+  performance_analytics_dashboard: true
+  client_collaboration_portal: true
+  creative_asset_version_control: true
+  cross_platform_publishing: true
+  trend_analysis_integration: true

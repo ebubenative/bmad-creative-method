@@ -1,0 +1,111 @@
+# Quality Rubric Template (Q-Score)
+
+template_info:
+  name: Quality Rubric Template
+  description: A standardized framework for evaluating creative quality across multiple dimensions.
+  version: 1.0.0
+  category: quality_assurance
+  elicit: true
+
+[[LLM: This template is used by the Creative Reviewer agent to provide structured, quantifiable feedback on creative work. The scores are used to calculate the overall Q-Score for a project or deliverable.]]
+
+# {{project_name}} - Quality Rubric: {{deliverable_name}}
+
+## Evaluation Overview
+
+**Deliverable:** {{deliverable_name}}
+**Date of Review:** {{current_date}}
+**Reviewer:** {{reviewer_name}}
+**Creative Director:** {{creative_director}}
+
+---
+
+## 1. Strategic Alignment
+
+**Description:** How well does the work meet the strategic goals outlined in the creative brief?
+
+**Criteria:**
+- **Objective Alignment:** Does it directly address the primary business and communication objectives?
+- **Audience Resonance:** Does it speak effectively to the target audience?
+- **Message Clarity:** Is the key message communicated clearly and persuasively?
+
+**Score (1-5):** {{strategic_alignment_score}}
+**Comments:** {{strategic_alignment_comments}}
+
+---
+
+## 2. Conceptual Strength
+
+**Description:** How strong, original, and compelling is the core creative idea?
+
+**Criteria:**
+- **Originality:** Is the concept fresh, innovative, and memorable?
+- **Relevance:** Is the concept relevant to the brand, audience, and cultural context?
+- **Big Idea:** Is there a powerful, overarching idea that drives the execution?
+
+**Score (1-5):** {{conceptual_strength_score}}
+**Comments:** {{conceptual_strength_comments}}
+
+---
+
+## 3. Visual Execution & Craft
+
+**Description:** How high is the quality of the design, production, and overall craftsmanship?
+
+**Criteria:**
+- **Aesthetics:** Is the work visually appealing and well-composed?
+- **Technical Skill:** Is the execution technically proficient (e.g., typography, color theory, layout, production quality)?
+- **Attention to Detail:** Is the work polished and free of errors?
+
+**Score (1-5):** {{visual_execution_score}}
+**Comments:** {{visual_execution_comments}}
+
+---
+
+## 4. Brand Consistency
+
+**Description:** How well does the work align with the established brand identity and guidelines?
+
+**Criteria:**
+- **Visual Identity:** Does it correctly use the logo, color palette, and typography?
+- **Brand Voice & Tone:** Does the messaging align with the brand's personality?
+- **Cohesion:** Does it feel like a natural part of the overall brand ecosystem?
+
+**Score (1-5):** {{brand_consistency_score}}
+**Comments:** {{brand_consistency_comments}}
+
+---
+
+## 5. Accessibility & Inclusivity
+
+**Description:** Does the work adhere to accessibility standards and represent diverse audiences respectfully?
+
+**Criteria:**
+- **WCAG Compliance:** (For digital) Does it meet required accessibility standards (e.g., color contrast, alt text)?
+- **Inclusive Representation:** Does it avoid stereotypes and reflect a diverse world?
+- **Clarity for All:** Is the communication clear and understandable for a broad audience?
+
+**Score (1-5):** {{accessibility_inclusivity_score}}
+**Comments:** {{accessibility_inclusivity_comments}}
+
+---
+
+## Overall Q-Score
+
+**Calculation:** (Sum of all scores) / (Number of categories * 5)
+**Q-Score:** {{q_score_percentage}}%
+
+## Summary & Actionable Feedback
+
+**Key Strengths:**
+- {{key_strengths}}
+
+**Areas for Improvement:**
+- {{areas_for_improvement}}
+
+**Recommended Next Steps:**
+- {{next_steps}}
+
+---
+**Document Version:** {{version}}
+**Last Updated:** {{last_updated}}

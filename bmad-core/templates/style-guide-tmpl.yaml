@@ -1,0 +1,97 @@
+# BMAD Style Guide Template
+# Version: 1.0
+# Description: A comprehensive template for creating a brand style guide.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  template_id: "bmad-creative-style-guide-v1"
+  template_name: "Brand Style Guide"
+  description: "A template for defining and documenting a brand's visual and tonal identity."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# STYLE GUIDE SECTIONS
+# ==============================================================================
+sections:
+  - section_name: "Brand Overview"
+    fields:
+      - field_name: "Mission"
+        type: "textarea"
+        description: "The brand's core purpose and reason for being."
+        placeholder: "e.g., To empower creativity and innovation..."
+      - field_name: "Vision"
+        type: "textarea"
+        description: "The future the brand aims to create."
+        placeholder: "e.g., A world where everyone can express their creative potential..."
+      - field_name: "Values"
+        type: "list"
+        description: "The guiding principles that shape the brand's actions."
+        placeholder: "e.g., Innovation, Collaboration, Integrity"
+
+  - section_name: "Logo"
+    fields:
+      - field_name: "Primary Logo"
+        type: "file"
+        description: "The main logo file (in SVG format)."
+      - field_name: "Logo Variations"
+        type: "file_list"
+        description: "Secondary logos, monograms, or logotypes."
+      - field_name: "Clear Space"
+        type: "text"
+        description: "The minimum clear space required around the logo."
+        placeholder: "e.g., 2x the height of the logomark"
+      - field_name: "Incorrect Usage"
+        type: "image_list"
+        description: "Examples of how not to use the logo."
+
+  - section_name: "Color Palette"
+    fields:
+      - field_name: "Primary Colors"
+        type: "color_list"
+        description: "The main brand colors."
+      - field_name: "Secondary Colors"
+        type: "color_list"
+        description: "Accent colors for use in backgrounds, borders, etc."
+      - field_name: "Neutral Colors"
+        type: "color_list"
+        description: "Shades of gray and other neutral tones."
+
+  - section_name: "Typography"
+    fields:
+      - field_name: "Primary Typeface"
+        type: "font"
+        description: "The main typeface for headlines and body copy."
+      - field_name: "Secondary Typeface"
+        type: "font"
+        description: "An accent typeface for special use cases."
+      - field_name: "Type Scale"
+        type: "key_value_list"
+        description: "The typographic scale for H1, H2, body, etc."
+        placeholder: "e.g., H1: 48px, H2: 36px"
+
+  - section_name: "Brand Voice & Tone"
+    fields:
+      - field_name: "Brand Voice"
+        type: "textarea"
+        description: "The brand's personality described in a few words."
+        placeholder: "e.g., Confident, witty, and inspiring"
+      - field_name: "Tone Examples"
+        type: "key_value_list"
+        description: "Examples of how the tone adapts to different situations."
+        placeholder: "e.g., When celebrating: Enthusiastic, When apologizing: Sincere"
+
+  - section_name: "Imagery"
+    fields:
+      - field_name: "Photography Style"
+        type: "textarea"
+        description: "Guidelines for art direction, subject matter, and composition."
+      - field_name: "Illustration Style"
+        type: "textarea"
+        description: "Guidelines for illustration style, color, and subject matter."
+      - field_name: "Iconography"
+        type: "file"
+        description: "The brand's icon set (in SVG format)."

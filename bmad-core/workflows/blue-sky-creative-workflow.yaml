@@ -1,0 +1,78 @@
+# BMAD Blue Sky Creative Workflow
+# Version: 1.0
+# Description: A workflow for brand new creative projects starting from a blank canvas.
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+meta:
+  workflow_id: "bmad-blue-sky-creative-v1"
+  workflow_name: "Blue Sky Creative Workflow"
+  description: "A comprehensive workflow for developing new creative concepts and executions from scratch."
+  version: "1.0"
+  author: "BMAD"
+  creation_date: "2025-07-24"
+
+# ==============================================================================
+# WORKFLOW STAGES
+# ==============================================================================
+stages:
+  - stage_name: "1. Project Kickoff & Discovery"
+    tasks:
+      - task: "project-kickoff"
+        description: "Guided project setup with the Maestro agent."
+        agent: "maestro"
+      - task: "market-creative-analysis"
+        description: "Analyze the market and competitive landscape for creative opportunities."
+        agent: "maya" # Creative Strategist
+
+  - stage_name: "2. Strategy & Concept"
+    tasks:
+      - task: "create-creative-story"
+        description: "Develop the core creative story and brief."
+        agent: "maya" # Creative Strategist
+      - task: "creative-brainstorming-session"
+        description: "Brainstorm big ideas and creative territories."
+        team: "studio-collaborative-team"
+      - task: "concept-development"
+        description: "Develop the chosen concept into a full creative platform."
+        agent: "adrian" # Creative Director
+
+  - stage_name: "3. Visual & Verbal Identity"
+    tasks:
+      - task: "mood-board-creation"
+        description: "Define the visual direction with mood boards."
+        agent: "leo" # Art Director
+      - task: "style-guide-creation"
+        description: "Create the brand style guide."
+        agent: "leo" # Art Director
+      - task: "copywriting-platform"
+        description: "Develop the brand voice and messaging platform."
+        agent: "alex" # Copywriter
+
+  - stage_name: "4. Creative Execution"
+    tasks:
+      - task: "asset-production"
+        description: "Produce all required creative assets."
+        team: "studio-collaborative-team"
+
+  - stage_name: "5. Review & Refinement"
+    tasks:
+      - task: "creative-quality-review"
+        description: "Review all work against the Q-Score rubric."
+        agent: "q-reviewer" # Creative Reviewer
+      - task: "client-feedback-integration"
+        description: "Incorporate client feedback and iterate on the creative."
+        agent: "chloe" # Client Liaison
+
+  - stage_name: "6. Finalization & Handoff"
+    tasks:
+      - task: "final-creative-approval"
+        description: "Get final sign-off from the Creative Director."
+        agent: "adrian" # Creative Director
+      - task: "package-assets"
+        description: "Package all final assets for handoff."
+        agent: "jordan" # Production Manager
+      - task: "post-mortem"
+        description: "Run the post-mortem workflow to capture learnings."
+        agent: "bmad-orchestrator"

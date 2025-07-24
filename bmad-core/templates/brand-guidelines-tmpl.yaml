@@ -1,0 +1,233 @@
+# Brand Guidelines Template
+
+template_info:
+  name: Brand Guidelines Template
+  description: Comprehensive brand guidelines document for visual identity systems
+  version: 1.0.0
+  category: brand_identity
+  multimodal_support: true
+  elicit: true
+
+[[LLM: This template creates comprehensive brand guidelines that ensure consistent brand application across all touchpoints. Adapt based on multimodal capabilities - if image generation is available, create visual examples; if not, provide detailed descriptions and specifications.]]
+
+# {{brand_name}} Brand Guidelines
+
+## Brand Overview
+
+**Brand Name:** {{brand_name}}
+**Version:** {{version}}
+**Date:** {{current_date}}
+**Document Owner:** {{document_owner}}
+**Last Updated:** {{last_updated}}
+
+### Brand Essence
+**Brand Mission:** {{brand_mission}}
+**Brand Vision:** {{brand_vision}}
+**Brand Values:** {{brand_values}}
+**Brand Personality:** {{brand_personality}}
+**Brand Promise:** {{brand_promise}}
+
+### Brand Positioning
+**Target Audience:** {{target_audience}}
+**Market Position:** {{market_position}}
+**Competitive Advantage:** {{competitive_advantage}}
+**Brand Attributes:** {{brand_attributes}}
+
+## Logo System
+
+### Primary Logo
+**Logo Description:** {{primary_logo_description}}
+**Usage Context:** {{primary_logo_usage}}
+**Minimum Size:** {{logo_min_size}}
+**File Formats:** {{logo_file_formats}}
+
+[[LLM: If multimodal capabilities are available, generate logo examples here. If not, provide detailed descriptions and specifications.]]
+
+### Logo Variations
+**Horizontal Version:** {{horizontal_logo}}
+**Vertical Version:** {{vertical_logo}}
+**Icon/Symbol Only:** {{logo_icon}}
+**Monogram:** {{logo_monogram}}
+
+### Logo Placement & Spacing
+**Clear Space Requirements:** {{logo_clear_space}}
+**Placement Guidelines:** {{logo_placement}}
+**Size Specifications:** {{logo_sizing}}
+
+### Logo Don'ts
+**Prohibited Usage:** {{logo_prohibitions}}
+**Common Mistakes:** {{logo_mistakes}}
+
+## Color System
+
+### Primary Colors
+**Primary Color 1:** {{primary_color_1}}
+- **Hex:** {{primary_hex_1}}
+- **RGB:** {{primary_rgb_1}}
+- **CMYK:** {{primary_cmyk_1}}
+- **Pantone:** {{primary_pantone_1}}
+
+**Primary Color 2:** {{primary_color_2}}
+- **Hex:** {{primary_hex_2}}
+- **RGB:** {{primary_rgb_2}}
+- **CMYK:** {{primary_cmyk_2}}
+- **Pantone:** {{primary_pantone_2}}
+
+### Secondary Colors
+**Secondary Palette:** {{secondary_colors}}
+**Usage Guidelines:** {{secondary_color_usage}}
+**Color Combinations:** {{color_combinations}}
+
+### Color Applications
+**Digital Applications:** {{digital_color_usage}}
+**Print Applications:** {{print_color_usage}}
+**Accessibility Considerations:** {{color_accessibility}}
+
+## Typography System
+
+### Primary Typeface
+**Typeface Name:** {{primary_typeface}}
+**Font Weights:** {{primary_font_weights}}
+**Usage:** {{primary_type_usage}}
+**Licensing:** {{primary_type_license}}
+
+### Secondary Typeface
+**Typeface Name:** {{secondary_typeface}}
+**Font Weights:** {{secondary_font_weights}}
+**Usage:** {{secondary_type_usage}}
+
+### Typography Hierarchy
+**H1 Specifications:** {{h1_specs}}
+**H2 Specifications:** {{h2_specs}}
+**H3 Specifications:** {{h3_specs}}
+**Body Text:** {{body_text_specs}}
+**Caption Text:** {{caption_specs}}
+
+### Typography Guidelines
+**Line Spacing:** {{line_spacing}}
+**Character Spacing:** {{character_spacing}}
+**Paragraph Spacing:** {{paragraph_spacing}}
+**Text Alignment:** {{text_alignment}}
+
+## Visual Elements
+
+### Graphic Elements
+**Patterns:** {{brand_patterns}}
+**Icons:** {{brand_icons}}
+**Illustrations:** {{brand_illustrations}}
+**Photography Style:** {{photography_style}}
+
+### Layout Principles
+**Grid System:** {{grid_system}}
+**Composition Rules:** {{composition_rules}}
+**White Space Usage:** {{whitespace_guidelines}}
+
+## Brand Voice & Tone
+
+### Voice Characteristics
+**Brand Voice:** {{brand_voice}}
+**Personality Traits:** {{voice_personality}}
+**Communication Style:** {{communication_style}}
+
+### Tone Guidelines
+**Formal Communications:** {{formal_tone}}
+**Casual Communications:** {{casual_tone}}
+**Social Media Tone:** {{social_media_tone}}
+**Crisis Communications:** {{crisis_tone}}
+
+### Messaging Framework
+**Key Messages:** {{key_messages}}
+**Value Propositions:** {{value_propositions}}
+**Call-to-Action Guidelines:** {{cta_guidelines}}
+
+## Application Guidelines
+
+### Digital Applications
+**Website Usage:** {{website_guidelines}}
+**Social Media:** {{social_media_guidelines}}
+**Email Communications:** {{email_guidelines}}
+**Digital Advertising:** {{digital_ad_guidelines}}
+
+### Print Applications
+**Business Cards:** {{business_card_specs}}
+**Letterhead:** {{letterhead_specs}}
+**Brochures:** {{brochure_guidelines}}
+**Signage:** {{signage_guidelines}}
+
+### Merchandise & Packaging
+**Packaging Guidelines:** {{packaging_guidelines}}
+**Promotional Items:** {{merchandise_guidelines}}
+**Apparel:** {{apparel_guidelines}}
+
+## Brand Extensions
+
+### Co-branding Guidelines
+**Partnership Branding:** {{cobranding_rules}}
+**Endorsement Guidelines:** {{endorsement_guidelines}}
+**Licensing Rules:** {{licensing_guidelines}}
+
+### Sub-brands
+**Sub-brand Architecture:** {{subbrand_architecture}}
+**Sub-brand Guidelines:** {{subbrand_guidelines}}
+
+## Implementation
+
+### File Organization
+**File Naming Convention:** {{file_naming}}
+**Asset Organization:** {{asset_organization}}
+**Version Control:** {{version_control}}
+
+### Team Guidelines
+**Brand Guardians:** {{brand_guardians}}
+**Approval Process:** {{approval_process}}
+**Training Requirements:** {{training_requirements}}
+
+### Quality Control
+**Brand Audit Process:** {{brand_audit}}
+**Compliance Monitoring:** {{compliance_monitoring}}
+**Feedback Mechanism:** {{feedback_process}}
+
+## Technical Specifications
+
+### Digital Specifications
+**Screen Resolutions:** {{screen_resolutions}}
+**Color Profiles:** {{color_profiles}}
+**File Formats:** {{digital_file_formats}}
+
+### Print Specifications
+**Print Processes:** {{print_processes}}
+**Paper Specifications:** {{paper_specs}}
+**Finishing Options:** {{finishing_options}}
+
+## Legal & Compliance
+
+### Trademark Information
+**Trademark Status:** {{trademark_status}}
+**Usage Rights:** {{usage_rights}}
+**Copyright Information:** {{copyright_info}}
+
+### Compliance Requirements
+**Industry Regulations:** {{industry_compliance}}
+**Regional Considerations:** {{regional_compliance}}
+**Accessibility Standards:** {{accessibility_standards}}
+
+## Resources & Contacts
+
+### Brand Assets
+**Asset Library Location:** {{asset_library}}
+**Request Process:** {{asset_request_process}}
+**Update Notifications:** {{update_notifications}}
+
+### Key Contacts
+**Brand Manager:** {{brand_manager}}
+**Creative Director:** {{creative_director}}
+**Legal Contact:** {{legal_contact}}
+**Technical Support:** {{technical_support}}
+
+---
+
+**Document Version:** {{doc_version}}
+**Next Review Date:** {{next_review}}
+**Distribution List:** {{distribution_list}}
+
+[[LLM: After completing this template, suggest implementation steps, training materials creation, or brand asset development to ensure successful brand guidelines adoption.]]
